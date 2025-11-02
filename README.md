@@ -3,7 +3,7 @@
 A Discord bot that can record a voice channel and save the audio file as a mp3/wav/pcm file (mp3 by default).  
 Implemented entirely in Python using [discord.py[voice]](https://discordpy.readthedocs.io/en/stable/) and [discord-ext-voice-recv](https://github.com/imayhaveborkedit/discord-ext-voice-recv) library, using modern slash commands and logging.
 
-![recorder_img_example](imgs\recorder_img_example.png)
+![recorder_img_example](imgs/recorder_img_example.png)
 
 (Alicen as I-listen...)
 
