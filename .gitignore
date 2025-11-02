@@ -1,0 +1,6 @@
+audio/
+Irrelevant/
+__pycache__/
+bot_env/
+discord.log
+.env
